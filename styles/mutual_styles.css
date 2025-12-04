@@ -1,9 +1,17 @@
 body {
-    background-color: #c6c6c6;
+  background-color: #c6c6c6;
 }
 
-h1 {}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 
-h2 {}
+h2 {
+}
 
-p {}
+p {
+}
+
+h1:hover {
+  color: #be3188;
+}
